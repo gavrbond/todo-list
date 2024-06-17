@@ -1,0 +1,30 @@
+.task {
+  font-weight: 400;
+  font-size: 18px;
+  color: rgb(39, 38, 38);
+  display: flex;
+  justify-content: space-between;
+
+  align-items: center;
+  background-color: #fff;
+  border-top: 1px solid #000;
+}
+p {
+  margin-left: 15px;
+}
+.btn {
+  display: inline-block;
+  font-weight: 400;
+  line-height: 1.5;
+  color: rgb(153, 153, 153);
+  text-align: center;
+  padding: 4px 10px;
+  background-color: rgb(50, 50, 50);
+  font-size: 14px;
+  cursor: pointer;
+  transition: all 0.1s linear;
+  border: none;
+}
+.btn:hover {
+  color: rgb(255, 255, 255);
+}

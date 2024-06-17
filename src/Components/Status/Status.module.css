@@ -1,0 +1,16 @@
+.statusContainer {
+  display: flex;
+  justify-content: center;
+  background-color: #fff;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  gap: 10px;
+}
+.btn {
+  cursor: pointer;
+  border: none;
+  background-color: #fff;
+  padding: 4px 7px;
+  color: rgb(56, 54, 54);
+  font-weight: 700;
+}
